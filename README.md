@@ -1,3 +1,2 @@
 # HOT TAKES
-
-sixième projet du parcours développeur web chez OpenClassrooms
+* Piiquante se dédie à la création de sauces épicées dont les recettes sont gardées secrètes. 
